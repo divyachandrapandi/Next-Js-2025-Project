@@ -1,4 +1,4 @@
-// "use server";
+
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -7,7 +7,7 @@ import { auth, signIn, signOut } from '@/auth';
 const Navbar = async () => {
 
     const session = await auth();
-    console.log(session)
+    // console.log(session)
     return (
         <div className={ 'px-5 py-3 bg-white shadow-sm font-work-sans' }>
             <nav className={ 'flex justify-between items-center' }>

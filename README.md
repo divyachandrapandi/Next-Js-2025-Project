@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Next-Js-2025-Project
 
 1. Create Authentication [Auth.js Documentation](https://authjs.dev/getting-started/installation)
-2. 
+2. SAAS Platform
